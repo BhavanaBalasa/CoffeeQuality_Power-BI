@@ -93,7 +93,7 @@
 •	In the Processing Method the blank values are replaced with Washed / Wet after analyzing the data hierarchy using country, region, and variety.
 •	Using text analysis techniques in Variety Column some values are replaced.
 ### 4. Report:
-![]{}
+![]{https://github.com/BhavanaBalasa/CoffeeQuality_Power-BI/blob/main/Power%20BI%20Report.png}
  
 
 Explored the following research questions:
