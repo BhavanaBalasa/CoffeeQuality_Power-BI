@@ -93,25 +93,25 @@
    English and capitalized.
 - In the Processing Method the blank values are replaced with Washed / Wet after analyzing the data hierarchy using country, region, and variety.
 - Using text analysis techniques in Variety Column some values are replaced.
-### 4. Report:
+## 4. Report:
 ![Report]{https://github.com/BhavanaBalasa/CoffeeQuality_Power-BI/blob/main/Power_BI_Report.png}
  
 
-### 5. Explored the following research questions:
-### 1.	What are the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, acidity, etc.?
+## 5. Explored the following research questions:
+#### 1.	What are the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, acidity, etc.?
 - The key determinants of coffee quality are Aroma, Flavor, Aftertaste, Acidity, Body, overall, uniformity, sweetness, clean cup, and Balance.
 - These Factors impact the coffee efficiency.
 
-### 2. Is there a correlation between processing methods, origin regions, and coffee quality scores?
+#### 2. Is there a correlation between processing methods, origin regions, and coffee quality scores?
 - Based on the processing method quality of the coffee produced will vary.
 - Double Anaerobic Washed and Semi Washsed processes are the top methods to serve good coffee.
 - Piendamo, Tarrazu, and Loas borofen plateau are top regions in producing good quality coffee.
 
-### 3. Can we identify any trends or patterns in defect occurrences and their impact on coffee quality?
+#### 3. Can we identify any trends or patterns in defect occurrences and their impact on coffee quality?
 - Natural/Dry, Washed / Wet, and Pulped natural / honey methods produce more defects.
 - Category Two Defects are more the Category One Defects. 
 
-### 4. How do different variables influence the Total Cup Points, which represent an overall measure of coffee quality?
+#### 4. How do different variables influence the Total Cup Points, which represent an overall measure of coffee quality?
 - The Overall Cup points of a Coffee is influenced by attributes Acidity, flavor, Aroma, Body, Balance, and After taste.
    The increase in these attributes enhances the Coffee Quality Points.
 - Double Anaerobic washed, Semi washed had high Total Cup Points.
