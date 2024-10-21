@@ -92,7 +92,8 @@
 •	Region contains one blank value based on the hierarchy using the country column replaced with ESTELI and some values in other languages are replaced with English and capitalized.
 •	In the Processing Method the blank values are replaced with Washed / Wet after analyzing the data hierarchy using country, region, and variety.
 •	Using text analysis techniques in Variety Column some values are replaced.
-Report:
+### 4. Report:
+![]{}
  
 
 Explored the following research questions:
