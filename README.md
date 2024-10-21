@@ -80,20 +80,21 @@
         Refers to the point at which coffee loses its optimal flavor and freshness.
 ## 3.	Data Transformation:
 ### 3.1	Data Cleaning:
-     •	Considering the feature engineer concept, analysis needs only a few attributes ID, Country Of Origin, Region, variety, 
-     Processing Method, Aroma, Flavour, Aftertaste, Acidity, Body, Balance, Uniformity, Sweetness, Clean cup, Overall, 
-     Total Cup Points, Category One Defects, Category Two Defects and remaining attributes are removed.
-    •	One Row With ID=105 doesn't contain values for attributes region, variety, and  Processing Method Which is important 
-      for analysis, it is removed as there is no way to fill Or replace it.
-    •	Duplicates are removed from combining the selected columns Country Of Origin, Region, Variety, and Processing Method. 
-      Almost 38 Rows are removed.
-•	Variety column contains blanks, unknown, unknow, unknownn values mentioned are replaced with a single value unknown.
-•	In column Region there is a full detail that is not required so, I split the column using a comma as a delimiter and removed another part of the column. 
-•	Region contains one blank value based on the hierarchy using the country column replaced with ESTELI and some values in other languages are replaced with English and capitalized.
-•	In the Processing Method the blank values are replaced with Washed / Wet after analyzing the data hierarchy using country, region, and variety.
-•	Using text analysis techniques in Variety Column some values are replaced.
+- Considering the feature engineer concept, analysis needs only a few attributes ID, Country Of Origin, Region, variety, 
+  Processing Method, Aroma, Flavour, Aftertaste, Acidity, Body, Balance, Uniformity, Sweetness, Clean cup, Overall, 
+  Total Cup Points, Category One Defects, Category Two Defects and remaining attributes are removed.
+- One Row With ID=105 doesn't contain values for attributes region, variety, and  Processing Method Which is important 
+  for analysis, it is removed as there is no way to fill Or replace it.
+- Duplicates are removed from combining the selected columns Country Of Origin, Region, Variety, and Processing Method. 
+  Almost 38 Rows are removed.
+- Variety column contains blanks, unknown, unknow, unknownn values mentioned are replaced with a single value unknown.
+- In column Region there is a full detail that is not required so, I split the column using a comma as a delimiter and removed another part of the column. 
+   Region contains one blank value based on the hierarchy using the country column replaced with ESTELI and some values in other languages are replaced with 
+   English and capitalized.
+- In the Processing Method the blank values are replaced with Washed / Wet after analyzing the data hierarchy using country, region, and variety.
+- Using text analysis techniques in Variety Column some values are replaced.
 ### 4. Report:
-![Report]{https://github.com/BhavanaBalasa/CoffeeQuality_Power-BI/blob/main/Power%20BI%20Report.png}
+![Report]{https://github.com/BhavanaBalasa/CoffeeQuality_Power-BI/blob/main/Power BI Report.png}
  
 
 Explored the following research questions:
